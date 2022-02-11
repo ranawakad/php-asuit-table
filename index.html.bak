@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+
+  <!-- Style -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <title>Git Table</title>
+</head>
+
+<body>
+
+  <div class="content">
+
+    <div class="container">
+      <img class="git" src="images/git-icon.png" width="100" height="100">
+      <br>
+      <h2 class="mb-5">Git Course - ITI</h2>
+
+      <div class="table-responsive">
+
+        <table class="table table-striped custom-table">
+          <thead>
+            <tr>
+              <th scope="col">No.</th>
+              <th scope="col">Name</th>
+              <th scope="col">Email</th>
+            </tr>
+          </thead>
+          <tbody>
+
+            <tr scope="row">
+              <td>1</td>
+              <td><a href="#">mohamedsaber</a></td>
+              <td>mohamedfx14@gmail.com</td>
+            </tr>
+            <tr scope="row">
+
+              <td>2</td>
+              <td><a href="#">Mina Gamal</a></td>
+              <td>mena.g2013@gmail.com</td>
+            </tr>
+<<<<<<< HEAD
+            <tr scope="row">
+              <td>1</td>
+              <td><a href="#">dina madany</a></td>
+              <td>dodyymadany@gmail.com</td>
+            </tr>
+=======
+
+              <td>3</td>
+              <td><a href="#">mina ezzat</a></td>
+              <td>minaezzat719@gmail.com</td>
+            </tr>
+            </tr>
+
+              <td>4</td>
+              <td><a href="#">omar mostafa</a></td>
+              <td>omar.mostafa2010@science.bsu.edu.eg</td>
+            </tr>
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               <td>5</td>
+              <td><a href="#">Ebtsam Mamdouh</a></td>
+              <td>sciencefi2@gmail.com</td>
+            </tr>
+
+<<<<<<< HEAD
+         
+
+=======
+>>>>>>> 6a22c8aaf8e03ef2ab2517dcda0c980a753dd31c
+>>>>>>> 2dd7d146b9de696de2f1cfe6bef740b86c5f9072
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/main.js"></script>
+  </body>
+
+  </html>
